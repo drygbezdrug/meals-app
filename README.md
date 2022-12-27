@@ -1,16 +1,10 @@
-# flutter_application_1
+Meals_app
 
-A new Flutter project.
+Application which shows recipes with or without filters, and allows to add to favorites
 
-## Getting Started
+Description
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![окно видов](https://user-images.githubusercontent.com/116317644/209670337-cfa02a5e-dad5-459c-ab47-0950e0456906.PNG)
+![Снимок](https://user-images.githubusercontent.com/116317644/209670339-183d174f-1d6d-460f-aed1-013c2b26d8ee.PNG)
+![рецепь](https://user-images.githubusercontent.com/116317644/209670342-7436382a-afc1-4fe0-9361-1ad3fe6e5683.PNG)
